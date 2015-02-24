@@ -1,0 +1,3 @@
+[submodule "ext/polyclave"]
+	path = ext/polyclave
+	url = https://github.com/rogerhyam/polyclave
